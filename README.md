@@ -1,4 +1,4 @@
-
+![logo](https://github.com/alejandro-davila/VBA-challenge/assets/135288005/aed4d951-c852-4dfe-9c97-3acf20c8190a)
 <h1 align="center">Hi 👋, I'm Alejandro Davila</h1>
 <h3 align="center">A passionate Data Analyst from Austin, Texas</h3>
 
