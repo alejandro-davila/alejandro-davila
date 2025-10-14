@@ -1,6 +1,6 @@
 ![logo](https://github.com/alejandro-davila/VBA-challenge/assets/135288005/aed4d951-c852-4dfe-9c97-3acf20c8190a)
 <h1 align="center">Hi 👋, I'm Alejandro Davila</h1>
-<h3 align="center">A passionate Data Analyst & Engineering from Austin, Texas</h3>
+<h3 align="center">I am passionate Data Analytics & Data Engineering</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/alejandro-davila/VBA-challenge/assets/135288005/b9b43b13-a6f6-4578-b02e-79e2ee8ffba8">
 
